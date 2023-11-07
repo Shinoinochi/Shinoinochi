@@ -17,6 +17,7 @@
 ![Node.js](https://github.com/Shinoinochi/Shinoinochi/assets/90762444/ac4316e6-e68a-45a6-8619-1ca268514af9)
 ![Express](https://github.com/Shinoinochi/Shinoinochi/assets/90762444/af2741dc-a121-4bab-ac64-f6f679fb06aa)
 ![Sass](https://github.com/Shinoinochi/Shinoinochi/assets/90762444/12920d32-d23d-4661-aea4-9a7b19b37f3f)
+![MongoDB](https://github.com/Shinoinochi/movies-explorer-api/assets/90762444/5d434de7-b644-45ed-a712-115262a90ee1)
 ![Webpack](https://github.com/Shinoinochi/expence-tracker/assets/90762444/c7390a7d-9127-40d0-adfc-679459b9ab11)
 
 ## Связь 💬
